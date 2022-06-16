@@ -100,7 +100,7 @@
 
      <!-- MENU -->
      <section class="navbar custom-navbar navbar-fixed-top" role="navigation">
-          <div class="container">
+          <div class="container-fluid">
 
                <div class="navbar-header">
                     <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -120,12 +120,13 @@
                          <li><a href="#about" class="smoothScroll">About</a></li>
                          <li><a href="#team" class="smoothScroll">Chef</a></li>
                          <li><a href="#menu" class="smoothScroll">Menu</a></li>
+                         <li><a href="orders.php" class="smoothScroll">Orders</a></li>
                          <li><a href="#contact" class="smoothScroll">Contact</a></li>
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
                          <li><a href="#">Call Now! <i class="fa fa-phone"></i> +255 742 104 868</a></li>
-                         <a href="form/signup.php" class="section-btn">Register</a>
+                         <a href="partials/signup.php" class="section-btn">Register</a>
                     </ul>
                </div>
 

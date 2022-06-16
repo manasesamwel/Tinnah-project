@@ -1,2 +1,0 @@
-# Tinnah-project
-Final project
